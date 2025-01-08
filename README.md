@@ -1,10 +1,12 @@
 # game-server-scripts
-A List of simple bash scripts that create and run basic Game Servers. These Scripts were thrown together to test incus containers. No guarantee these will work on other systems. 
+- A List of simple bash scripts that create and run basic Game Servers. 
+- These Scripts were thrown together to test incus containers. 
+- No guarantee these scripts will work on other systems. 
 
 
 ## Current Scripts
-Minecraft
-Project Zomboid
+- Minecraft
+- Project Zomboid
 
 
 
