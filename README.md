@@ -3,6 +3,10 @@
 - These Scripts were thrown together to test incus containers. 
 - No guarantee these scripts will work on other systems. 
 
+## For Incus Containers
+```
+incus config device add YOUR-INSTANCE port-8000 proxy listen=tcp:0.0.0.0:8000 connect=tcp:127.0.0.1:8000
+```
 
 ## Current Scripts
 - Minecraft
